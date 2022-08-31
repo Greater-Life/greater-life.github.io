@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitchen on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/kitchen/</link>
+    <description>Recent content in Kitchen on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jul 2022 11:02:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job openings: Greggs</title>
+      <link>http://localhost:1313/post/220704-greggs/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/220704-greggs/</guid>
+      <description>&lt;p&gt;Food chain on Wells High Street, seeking supervisors (£21k.p.a.) and part-time staff.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

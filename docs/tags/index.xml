@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jul 2022 11:02:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job openings</title>
+      <link>http://localhost:1313/tags/job-openings/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/job-openings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opticians</title>
+      <link>http://localhost:1313/tags/opticians/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/opticians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wells High Street</title>
+      <link>http://localhost:1313/tags/wells-high-street/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/wells-high-street/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barista</title>
+      <link>http://localhost:1313/tags/barista/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/barista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waiter</title>
+      <link>http://localhost:1313/tags/waiter/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/waiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waitress</title>
+      <link>http://localhost:1313/tags/waitress/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/waitress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-time</title>
+      <link>http://localhost:1313/tags/full-time/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/full-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kitchen</title>
+      <link>http://localhost:1313/tags/kitchen/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/kitchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part-time</title>
+      <link>http://localhost:1313/tags/part-time/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/part-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>http://localhost:1313/tags/fashion/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail</title>
+      <link>http://localhost:1313/tags/retail/</link>
+      <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/retail/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
