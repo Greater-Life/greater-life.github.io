@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <title>Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</title>
+    <link>https://greater-life.github.io/</link>
+    <description>Recent content on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Jul 2022 11:02:52 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://greater-life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://greater-life.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://greater-life.github.io/about/</guid>
       
         <description>&lt;p&gt;Welcome to the Wells Community Jobs website! Run by volunteers with unofficial connections, we seek to catalogue and advertise job opportunities in the Wells, Somerset area.&lt;/p&gt;
 &lt;p&gt;This is an experimental placement project by Darren J. de Lima (handle: &lt;code&gt;Darthagnon&lt;/code&gt;, engineer, blog at &lt;a href=&#34;https://robot-one.github.io&#34;&gt;robot-one.github.io&lt;/a&gt;), created while on a work placement with the Civil Service/DWP at the local Job Centre Plus in Summer 2022&lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Search</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://greater-life.github.io/search/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://greater-life.github.io/search/</guid>
       
         <description>&lt;h2 id=&#34;need-to-find-a-job&#34;&gt;Need to find a job?&lt;/h2&gt;
 &lt;p&gt;We can help! Here is a custom search engine for jobs in the UK:&lt;/p&gt;
@@ -57,17 +57,17 @@
 
 
 &lt;p&gt;It searches through a lot of jobs websites, all in one place. There is a complete list &lt;strong&gt;[here]&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Also stop by and visit the friendly staff at the Wells Job Centre! See the &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/about/&#34; title=&#34;About Us&#34;&gt;About page&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Also stop by and visit the friendly staff at the Wells Job Centre! See the &lt;strong&gt;&lt;a href=&#34;https://greater-life.github.io/about/&#34; title=&#34;About Us&#34;&gt;About page&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
       <title>Job opening: Vision Express</title>
-      <link>http://localhost:1313/post/220704-vision-express/</link>
+      <link>https://greater-life.github.io/post/220704-vision-express/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220704-vision-express/</guid>
+      <guid>https://greater-life.github.io/post/220704-vision-express/</guid>
       
         <description>&lt;p&gt;Opticians, seeking optical assistants and managers, on Wells High Street.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>Job opening: Fosso Lounge</title>
-      <link>http://localhost:1313/post/220704-fosso-lounge/</link>
+      <link>https://greater-life.github.io/post/220704-fosso-lounge/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220704-fosso-lounge/</guid>
+      <guid>https://greater-life.github.io/post/220704-fosso-lounge/</guid>
       
         <description>&lt;p&gt;Stylish restaurant on Wells High Street, seeking Bar/Waiting staff.&lt;/p&gt;
 &lt;h3 id=&#34;fosso-lounge-jobs-sitehttpsloungesatsemea1fourthcomsearchactionssearch2fmappostcodewellsdistance10-jobs-near-wells-filter&#34;&gt;&lt;a href=&#34;https://lounges.ats.emea1.fourth.com/search?actions=search%2Fmap&amp;amp;postcode=wells&amp;amp;distance=10&#34;&gt;Fosso Lounge Jobs site&lt;/a&gt; (jobs near Wells filter)&lt;/h3&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Job openings: Greggs</title>
-      <link>http://localhost:1313/post/220704-greggs/</link>
+      <link>https://greater-life.github.io/post/220704-greggs/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220704-greggs/</guid>
+      <guid>https://greater-life.github.io/post/220704-greggs/</guid>
       
         <description>&lt;p&gt;Food chain on Wells High Street, seeking supervisors (£21k.p.a.) and part-time staff.&lt;/p&gt;</description>
       
@@ -109,10 +109,10 @@
     
     <item>
       <title>Job opening: Peacocks fashion</title>
-      <link>http://localhost:1313/post/220704-peacocks/</link>
+      <link>https://greater-life.github.io/post/220704-peacocks/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220704-peacocks/</guid>
+      <guid>https://greater-life.github.io/post/220704-peacocks/</guid>
       
         <description>&lt;p&gt;Fashion chain on Wells High Street, seeking Part Time Sales Colleague.&lt;/p&gt;
 &lt;h3 id=&#34;apply-here-on-indeedhttpsukindeedcompeacocks-jobs&#34;&gt;&lt;a href=&#34;https://uk.indeed.com/Peacocks-jobs&#34;&gt;Apply here on Indeed&lt;/a&gt;&lt;/h3&gt;</description>
@@ -121,10 +121,10 @@
     
     <item>
       <title>Job opening: Boots Opticians</title>
-      <link>http://localhost:1313/post/220701-boots-opticians/</link>
+      <link>https://greater-life.github.io/post/220701-boots-opticians/</link>
       <pubDate>Fri, 01 Jul 2022 14:19:10 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220701-boots-opticians/</guid>
+      <guid>https://greater-life.github.io/post/220701-boots-opticians/</guid>
       
         <description>&lt;p&gt;Apprenticeship opportunity, advertised in window.&lt;/p&gt;
 &lt;p&gt;Given the prominence of the ad, suggests position is readily available.&lt;/p&gt;</description>
@@ -133,10 +133,10 @@
     
     <item>
       <title>Job opening: Globe Inn</title>
-      <link>http://localhost:1313/post/220701-globe-inn/</link>
+      <link>https://greater-life.github.io/post/220701-globe-inn/</link>
       <pubDate>Fri, 01 Jul 2022 14:18:57 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220701-globe-inn/</guid>
+      <guid>https://greater-life.github.io/post/220701-globe-inn/</guid>
       
         <description>&lt;p&gt;Bar/Kitchen staff wanted.&lt;/p&gt;
 &lt;p&gt;Advertised in window; ask within for more details.&lt;/p&gt;</description>

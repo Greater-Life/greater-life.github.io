@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
+    <title>Tags on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</title>
+    <link>https://greater-life.github.io/tags/</link>
+    <description>Recent content in Tags on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jul 2022 11:02:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 11:02:52 +0100</lastBuildDate><atom:link href="https://greater-life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job openings</title>
-      <link>http://localhost:1313/tags/job-openings/</link>
+      <link>https://greater-life.github.io/tags/job-openings/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/job-openings/</guid>
+      <guid>https://greater-life.github.io/tags/job-openings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opticians</title>
-      <link>http://localhost:1313/tags/opticians/</link>
+      <link>https://greater-life.github.io/tags/opticians/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/opticians/</guid>
+      <guid>https://greater-life.github.io/tags/opticians/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wells High Street</title>
-      <link>http://localhost:1313/tags/wells-high-street/</link>
+      <link>https://greater-life.github.io/tags/wells-high-street/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:52 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/wells-high-street/</guid>
+      <guid>https://greater-life.github.io/tags/wells-high-street/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barista</title>
-      <link>http://localhost:1313/tags/barista/</link>
+      <link>https://greater-life.github.io/tags/barista/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/barista/</guid>
+      <guid>https://greater-life.github.io/tags/barista/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Waiter</title>
-      <link>http://localhost:1313/tags/waiter/</link>
+      <link>https://greater-life.github.io/tags/waiter/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/waiter/</guid>
+      <guid>https://greater-life.github.io/tags/waiter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Waitress</title>
-      <link>http://localhost:1313/tags/waitress/</link>
+      <link>https://greater-life.github.io/tags/waitress/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:35 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/waitress/</guid>
+      <guid>https://greater-life.github.io/tags/waitress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-time</title>
-      <link>http://localhost:1313/tags/full-time/</link>
+      <link>https://greater-life.github.io/tags/full-time/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/full-time/</guid>
+      <guid>https://greater-life.github.io/tags/full-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kitchen</title>
-      <link>http://localhost:1313/tags/kitchen/</link>
+      <link>https://greater-life.github.io/tags/kitchen/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/kitchen/</guid>
+      <guid>https://greater-life.github.io/tags/kitchen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Part-time</title>
-      <link>http://localhost:1313/tags/part-time/</link>
+      <link>https://greater-life.github.io/tags/part-time/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:21 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/part-time/</guid>
+      <guid>https://greater-life.github.io/tags/part-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>http://localhost:1313/tags/fashion/</link>
+      <link>https://greater-life.github.io/tags/fashion/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/fashion/</guid>
+      <guid>https://greater-life.github.io/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retail</title>
-      <link>http://localhost:1313/tags/retail/</link>
+      <link>https://greater-life.github.io/tags/retail/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/retail/</guid>
+      <guid>https://greater-life.github.io/tags/retail/</guid>
       <description></description>
     </item>
     

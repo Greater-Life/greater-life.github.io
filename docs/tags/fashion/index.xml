@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fashion on Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/fashion/</link>
-    <description>Recent content in Fashion on Jane - A super concise theme for Hugo</description>
+    <title>Fashion on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</title>
+    <link>https://greater-life.github.io/tags/fashion/</link>
+    <description>Recent content in Fashion on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jul 2022 11:02:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 11:02:08 +0100</lastBuildDate><atom:link href="https://greater-life.github.io/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job opening: Peacocks fashion</title>
-      <link>http://localhost:1313/post/220704-peacocks/</link>
+      <link>https://greater-life.github.io/post/220704-peacocks/</link>
       <pubDate>Mon, 04 Jul 2022 11:02:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/220704-peacocks/</guid>
+      <guid>https://greater-life.github.io/post/220704-peacocks/</guid>
       <description>&lt;p&gt;Fashion chain on Wells High Street, seeking Part Time Sales Colleague.&lt;/p&gt;</description>
     </item>
     
