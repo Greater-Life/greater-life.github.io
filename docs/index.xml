@@ -6,10 +6,31 @@
     <description>Recent content on Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jul 2022 11:02:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 00:07:36 +0100</lastBuildDate>
     
         <atom:link href="https://greater-life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Demo of Wells Community Jobs website</title>
+      <link>https://greater-life.github.io/post/220901-public-demo/</link>
+      <pubDate>Thu, 01 Sep 2022 00:07:36 +0100</pubDate>
+      
+      <guid>https://greater-life.github.io/post/220901-public-demo/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Warning: Website is a work-in-progress! Information may be incorrect or outdated.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have launched the Wells Community Jobs website public demo! More features are coming soon:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a reorganisation, to cover a lot more than just jobs&lt;/li&gt;
+&lt;li&gt;a rebranding, to cover Glastonbury and Shepton Mallet, as well as Wells&lt;/li&gt;
+&lt;li&gt;theme improvements (there are still a lot of broken links, fonts, scripts and unused features)&lt;/li&gt;
+&lt;li&gt;proper licensing for images, and additional volunteer maintainers to help out!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Currently, the website source code is available at &lt;a href=&#34;https://github.com/Greater-Life/greater-life.github.io&#34;&gt;https://github.com/Greater-Life/greater-life.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am &lt;a href=&#34;https://robot-one.github.io&#34;&gt;Darthagnon a.k.a. Darren de Lima&lt;/a&gt;, electromechanical engineer, product designer/manufacturer, junior webdev, sysadmin and former Civil Servant. I aim to continue serving the public in an unofficial capacity (or official, if possible) for the time being, this website being one initiative.&lt;/p&gt;
+&lt;p&gt;Please bear in mind that the site is currently public for demo purposes only, and there will be major changes incoming. In the meantime, feel free to contact me via my website with any questions, suggestions, or offers of help or employment 😅&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>About</title>
