@@ -55,9 +55,8 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "Wells Job Centre"
+  name = "Events"
   weight = 70
-  url = "https://www.jobcentreguide.co.uk/wells-jobcentre"
 
 
 [params]

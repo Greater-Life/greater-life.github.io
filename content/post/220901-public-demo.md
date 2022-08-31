@@ -5,8 +5,8 @@ lastmod: 2022-09-01T00:07:36+01:00
 draft: false
 keywords: []
 description: ""
-tags: []
-categories: []
+tags: [ Events ]
+categories: [ Announcements ]
 author: "Darthagnon"
 # Uncomment to pin article to front page
 weight: 1
