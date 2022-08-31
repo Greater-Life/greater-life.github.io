@@ -23,6 +23,27 @@
   </url>
   
   <url>
+    <loc>https://greater-life.github.io/categories/announcements/</loc>
+    <lastmod>2022-09-01T00:07:36+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/categories/</loc>
+    <lastmod>2022-09-01T00:07:36+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/tags/events/</loc>
+    <lastmod>2022-09-01T00:07:36+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://greater-life.github.io/</loc>
     <lastmod>2022-09-01T00:07:36+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,8 +58,8 @@
   </url>
   
   <url>
-    <loc>https://greater-life.github.io/categories/</loc>
-    <lastmod>2022-07-04T11:02:35+01:00</lastmod>
+    <loc>https://greater-life.github.io/tags/</loc>
+    <lastmod>2022-09-01T00:07:36+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,13 +88,6 @@
   <url>
     <loc>https://greater-life.github.io/tags/opticians/</loc>
     <lastmod>2022-07-04T11:02:21+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://greater-life.github.io/tags/</loc>
-    <lastmod>2022-07-04T11:02:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
