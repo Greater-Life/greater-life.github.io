@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+baseURL = "https://greater-life.github.io"
+title = "Events going on in Wells, Glastonbury, Shepton Mallet, etc. in Somerset, UK"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
