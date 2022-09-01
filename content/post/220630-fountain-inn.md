@@ -2,7 +2,7 @@
 title: "Job opening: Fountain Inn"
 date: 2022-07-01T14:18:14+01:00
 lastmod: 2022-07-01T14:18:14+01:00
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []

@@ -2,7 +2,7 @@
 title: "Job opening: Waterstones"
 date: 2022-07-01T14:18:31+01:00
 lastmod: 2022-07-01T14:18:31+01:00
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []

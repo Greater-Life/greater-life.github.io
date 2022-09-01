@@ -2,7 +2,7 @@
 title: "Jobs opening: Seasalt"
 date: 2022-07-01T11:40:42+01:00
 lastmod: 2022-07-01T11:40:42+01:00
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []

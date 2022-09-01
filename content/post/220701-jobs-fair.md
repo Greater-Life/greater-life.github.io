@@ -2,7 +2,7 @@
 title: "Jobs Fair on Thurs 7 July 2022 "
 date: 2022-07-01T14:23:27+01:00
 lastmod: 2022-07-01T14:23:27+01:00
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: [ 
