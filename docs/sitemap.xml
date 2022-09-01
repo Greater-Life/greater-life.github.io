@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://greater-life.github.io/post/220701-launch/</loc>
+    <lastmod>2022-07-01T14:24:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://greater-life.github.io/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -60,6 +67,13 @@
   <url>
     <loc>https://greater-life.github.io/tags/</loc>
     <lastmod>2022-09-01T00:07:36+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220704-fake-jobcentreplus/</loc>
+    <lastmod>2022-07-04T13:11:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -191,6 +205,27 @@
   </url>
   
   <url>
+    <loc>https://greater-life.github.io/categories/events/</loc>
+    <lastmod>2022-07-01T14:23:27+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220701-jobs-fair/</loc>
+    <lastmod>2022-07-01T14:23:27+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/tags/search-for-jobs/</loc>
+    <lastmod>2022-07-01T14:23:27+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://greater-life.github.io/post/220701-boots-opticians/</loc>
     <lastmod>2022-07-01T14:19:10+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +235,34 @@
   <url>
     <loc>https://greater-life.github.io/post/220701-globe-inn/</loc>
     <lastmod>2022-07-01T14:18:57+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220630-waterstones/</loc>
+    <lastmod>2022-07-01T14:18:31+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220630-fountain-inn/</loc>
+    <lastmod>2022-07-01T14:18:14+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220630-santander/</loc>
+    <lastmod>2022-07-01T14:17:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://greater-life.github.io/post/220630-seasalt/</loc>
+    <lastmod>2022-07-01T11:40:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
